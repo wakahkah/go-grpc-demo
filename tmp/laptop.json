@@ -1,27 +1,27 @@
 {
-  "id": "32d4a99e-cad1-4539-97a3-4dd76fa8bf32",
+  "id": "95b4955d-fdc5-49cb-8f4b-ede6a22a1130",
   "brand": "Dell",
-  "name": "Vostro",
+  "name": "XPS",
   "cpu": {
     "brand": "AMD",
-    "name": "Ryzen 7 PRO 2700U",
-    "number_cores": 7,
-    "number_threads": 7,
-    "min_ghz": 2.118238410036987,
-    "max_ghz": 4.752985742238865
+    "name": "Ryzen 3 PRO 3200GE",
+    "number_cores": 8,
+    "number_threads": 9,
+    "min_ghz": 3.2601635118625865,
+    "max_ghz": 4.141934234627032
   },
   "ram": {
-    "value": "26",
+    "value": "62",
     "unit": "GIGABYTE"
   },
   "gpus": [
     {
-      "brand": "Nvidia",
-      "name": "GTX 1660-Ti",
-      "min_ghz": 1.155253076097999,
-      "max_ghz": 1.4832834364556218,
+      "brand": "AMD",
+      "name": "RX 580",
+      "min_ghz": 1.3067290786047772,
+      "max_ghz": 1.621040369217659,
       "memory": {
-        "value": "6",
+        "value": "4",
         "unit": "GIGABYTE"
       }
     }
@@ -30,23 +30,23 @@
     {
       "driver": "SSD",
       "memory": {
-        "value": "504",
+        "value": "262",
         "unit": "GIGABYTE"
       }
     },
     {
       "driver": "HDD",
       "memory": {
-        "value": "3",
+        "value": "6",
         "unit": "TERABYTE"
       }
     }
   ],
   "screen": {
-    "size_inch": 14.831182,
+    "size_inch": 13.848004,
     "resolution": {
-      "width": 2512,
-      "height": 1413
+      "width": 7114,
+      "height": 4002
     },
     "panel": "IPS",
     "multitouch": false
@@ -55,8 +55,8 @@
     "layout": "QWERTZ",
     "backlit": true
   },
-  "weight_kg": 2.018010501860846,
-  "price_usd": 3147.788564585135,
-  "release_year": 2018,
-  "updated_at": "2023-02-07T05:28:45.612391Z"
+  "weight_kg": 2.934988273994783,
+  "price_usd": 2810.698439845665,
+  "release_year": 2016,
+  "updated_at": "2023-02-07T21:04:56.153230Z"
 }
